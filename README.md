@@ -1,1 +1,18 @@
 # 8-1-journal-portfolio
+Client and Software Requirements:
+The client, Artemis Financial, is a consulting company specializing in personalized financial planning for customers. They needed to modernize their operations and sought Global Rain's expertise to develop a custom software solution. The software's main focus is a RESTful web application programming interface (API) that facilitates the creation of individualized financial plans encompassing savings, retirement, investments, and insurance.
+Addressing Security Vulnerabilities:
+In examining Artemis Financial's software, I performed a thorough security assessment to identify vulnerabilities. This process involved identifying potential entry points for malicious actors, analyzing potential attack vectors, and testing the application for common vulnerabilities like injection attacks, cross-site scripting (XSS), and more. This proactive approach is crucial because it helps to identify and rectify vulnerabilities before they can be exploited, protecting sensitive data and maintaining the trust of clients.
+Importance of Secure Coding:
+Coding securely is vital because it prevents unauthorized access, data breaches, and other cyber threats that can lead to financial losses and reputational damage. Software security adds value to a company's overall wellbeing by safeguarding customer information, maintaining regulatory compliance, and ensuring uninterrupted business operations. Moreover, it fosters client confidence and enhances the organization's credibility in the market.
+Challenges and Helpful Aspects of Vulnerability Assessment:
+One challenging aspect of the vulnerability assessment was staying up-to-date with the rapidly evolving landscape of cyber threats and attack vectors. However, it was helpful to collaborate with team members who had expertise in different domains, enabling a comprehensive assessment that addressed a wide range of potential vulnerabilities.
+Increasing Layers of Security and Future Assessment:
+To increase security layers, we employed practices like input validation, parameterized queries, and implementing security headers. In the future, we would utilize automated vulnerability scanning tools and conduct regular security audits to continuously assess vulnerabilities and choose appropriate mitigation techniques based on their severity and potential impact.
+Ensuring Functionality and Security:
+After refactoring the code, we conducted rigorous testing, including functional testing and security testing, to ensure both the application's functionality and security were intact. We employed a combination of manual code review, automated testing tools, and penetration testing to identify any new vulnerabilities introduced during the refactoring process.
+Resources, Tools, and Practices:
+We utilized tools like static code analysis tools, dynamic application security testing (DAST) tools, and security frameworks like OWASP Top Ten to guide our assessment. Additionally, coding practices such as secure coding guidelines, threat modeling, and code review checklists were valuable in ensuring a comprehensive and systematic approach to security.
+Showcasing Skills to Future Employers:
+From this assignment, I can demonstrate my ability to perform a comprehensive security assessment, identify vulnerabilities, and implement effective mitigation strategies. I can showcase my understanding of secure coding practices, proficiency in using security tools, and collaboration within a cross-functional team to enhance software security. This assignment highlights my commitment to ensuring data protection and contributing to the overall success of the organization.
+
